@@ -1,0 +1,76 @@
+@charset "gb2312";
+body{
+	margin:0;
+	font-family:"ºÚÌå";
+	font-size:18px;
+	color:#5f5f5f;
+}
+a:link,a:visited{
+	color:#5f5f5f;
+	text-decoration:none;
+}
+a:hover{
+	color:#F30;
+}
+label{
+	margin:0;
+}
+.main{
+	margin:0 auto;
+	padding-bottom:10px;
+	width:740px;
+	background-color:#eeeeee;
+}
+.top{
+	height:92px;
+	background:url(image/top.jpg) no-repeat;
+}
+.title{
+	padding-top:20px;
+	padding-bottom:10px;
+	font-weight:bold;
+	color:#464646;
+	font-size:30px;
+	text-align:center;
+}
+.info{
+	padding:10px 15px;
+	background-color:#dbeaf7;
+	text-indent:2em;
+	font-size:16px;
+}
+.info p{
+	margin:5px 0;
+}
+.info .teshu{
+	text-indent:0em;
+}
+.question{
+	padding:5px 10px;
+}
+.Qtitle{
+	padding:5px 5px;
+}
+.Qanswer{
+	padding:5px 5px;
+}
+.Qanswer label{
+	padding:0 10px;
+}
+.submit{
+	text-align:center;
+}
+.submit label{
+	padding:0 10px;
+}
+
+.bottom{
+	padding:5px 10px;
+}
+.bottomContent{
+	font-size:14px;
+	text-align:center;
+	padding-top:5px;
+}
+/* CSS Document */
+
